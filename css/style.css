@@ -1,0 +1,19 @@
+header,section,footer{
+	background: #8BC34A;
+	margin-bottom: 10px;
+}
+.box,.box2,.box3{
+	min-height: 100px;
+	background: teal;
+	margin-bottom: 10px;
+}
+.box2{
+	background: #F44336;
+}
+.box3{
+	background: #673AB7;
+}
+p{
+	color:#fff;
+	text-align: center;
+}
